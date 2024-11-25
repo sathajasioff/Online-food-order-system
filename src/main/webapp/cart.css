@@ -1,0 +1,22 @@
+
+        
+.table tbody td{
+	vertical-align: middle;
+}
+
+.btn-incre, btn-decre{
+	box-shadow: none;
+	font-size: 25px;
+}
+ .btn-incre, .btn-decre {
+            margin: 0 5px;             /* Spacing between buttons */
+        }
+        
+.btn-custom {
+    background-color: #007bff; /* Bootstrap primary color (blue) */
+    color: white; /* White icon color */
+}
+
+.btn-custom i {
+    color: white; /* Ensure the icon color is white */
+}
